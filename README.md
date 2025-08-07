@@ -1,1 +1,1 @@
-AI study tool that uses retrieval augmented genenartion (RAG) to answer study material specific questions.
+AI study tool that uses retrieval-augmented generation (RAG) to answer questions specific to study material.
